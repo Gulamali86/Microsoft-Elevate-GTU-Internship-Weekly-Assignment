@@ -149,37 +149,6 @@ The internship focuses on **Data Analytics, Machine Learning, Deep Learning, Pow
 ---
 
 
-
-## 📂 Repository Structure
-
-
-
-```text
-
-MS-Elevate-Internship/
-
-│
-
-├── Data/                # Datasets used for analysis & ML
-
-├── Notebooks/           # Google Colab / Jupyter notebooks
-
-├── Scripts/             # Cleaned Python scripts (.py)
-
-├── Session-Notes/       # Session-wise notes & learnings
-
-├── README.md            # Project documentation
-
-└── .gitignore           # Ignored files & folders
-
-```
-
-
-
----
-
-
-
 ## 🛠️ Technologies & Tools Used
 
 
